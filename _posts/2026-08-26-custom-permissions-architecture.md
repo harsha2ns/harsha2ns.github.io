@@ -23,3 +23,4 @@ This single custom permission serves as a centralized control point, decoupling 
 
 The layout below illustrates how a single custom permission controls the execution context across multiple independent metadata blocks simultaneously:
 
+<img width="1192" height="723" alt="graph" src="https://github.com/user-attachments/assets/aa10716f-6089-4339-b5a7-4c0d1eba3f58" />
